@@ -125,13 +125,15 @@ _____________________________________________________________________
 7. Exit
 Select option:
 ____________________________________________________________________
-👨‍💻 Developer Info
+👨‍💻 Developer's Info 
 ___________________________________________________________________
 Name: pranali Kavade
-
+      sanika kavade
 GitHub:pranalikavade
+       SanikaKavade
 
-Email: opranalikavade73@gmail.com
+Email: pranalikavade73@gmail.com
+       kavadesanika9@gmail.com
 ____________________________________________________________________
 
 
